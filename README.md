@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird Java
+# 🐦 Flappy Bird in Java Swing
 
 <div align="center">
 
@@ -7,9 +7,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 
 **A classic Flappy Bird game recreation built with Java Swing**
-
-[🎮 Getting Started](#-getting-started) • [🎯 How to Play](#-how-to-play) • [🛠️ Installation](#️-installation)
-
 </div>
 
 ---
@@ -21,8 +18,6 @@
 ## 🎯 About This Project
 
 This is a faithful recreation of the classic Flappy Bird game built entirely in Java using Swing. The project demonstrates core Java programming concepts including GUI development, event handling, collision detection, and audio integration.
-
-Perfect for students learning Java or anyone interested in simple game development!
 
 ---
 
