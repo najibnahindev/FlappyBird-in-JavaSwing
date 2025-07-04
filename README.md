@@ -153,7 +153,8 @@ flappy-bird-java/
 
 ## 📸 Screenshot
 
-*Add your game screenshot here*
+![Screenshot](./screenshots/screenshot2.png)
+![Screenshot](./screenshots/screenshot3.png)
 
 ---
 
@@ -162,7 +163,8 @@ flappy-bird-java/
 ### Option 1: Download Executable (Recommended)
 **🎮 Ready to play immediately!**
 
-[![Download EXE](https://img.shields.io/badge/Download-Flappy%20Bird.exe-brightgreen?style=for-the-badge&logo=windows)](https://github.com/yourusername/flappy-bird-java/releases/download/v1.0/FlappyBird.exe)
+![Screenshot](./screenshots/screenshot4.png)
+[![Download EXE](https://img.shields.io/badge/Download-Flappy%20Bird.exe-brightgreen?style=for-the-badge&logo=windows)](https://github.com/najibnahindev/FlappyBird-in-JavaSwing/raw/main/FlappyBird.exe)
 
 - **One-click download** - No Java installation required
 - **Portable** - Run directly without installation
@@ -215,8 +217,8 @@ This project is open source and available under the MIT License.
 
 <div align="center">
 
-**Made with ❤️ in Java**
+---
 
-*Happy Coding! 🐦*
+If you like this project, don't forget to ⭐ **star** the repo!
 
 </div>
